@@ -1,4 +1,4 @@
-package ch.sebooom.domain.stockexchange;
+package ch.sebooom.domain.simulator;
 
 import ch.sebooom.domain.stockexchange.matierespremieres.model.Prix;
 

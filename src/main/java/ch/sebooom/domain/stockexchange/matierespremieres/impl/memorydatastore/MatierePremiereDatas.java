@@ -1,5 +1,6 @@
 package ch.sebooom.domain.stockexchange.matierespremieres.impl.memorydatastore;
 
+import ch.sebooom.domain.simulator.StockExchangeEntity;
 import ch.sebooom.domain.stockexchange.matierespremieres.model.MatierePremiere;
 import ch.sebooom.domain.stockexchange.matierespremieres.model.Prix;
 
@@ -8,9 +9,9 @@ import java.util.List;
 
 public class MatierePremiereDatas {
 	
-	public static List<MatierePremiere> datas(){
+	public static List<StockExchangeEntity> datas(){
 		
-		List<MatierePremiere> datas = new ArrayList<>();
+		List<StockExchangeEntity> datas = new ArrayList<>();
 		datas.add(new MatierePremiere("Pétrole", "Cours pétrole", Prix.from(50.36)));
 		datas.add(new MatierePremiere("Or", "Cours or", Prix.from(1262.09)));
 		datas.add(new MatierePremiere("Blé", "Cours blé", Prix.from(402.80)));

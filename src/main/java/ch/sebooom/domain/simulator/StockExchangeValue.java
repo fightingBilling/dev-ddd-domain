@@ -1,4 +1,4 @@
-package ch.sebooom.domain.stockexchange;
+package ch.sebooom.domain.simulator;
 
 public abstract class StockExchangeValue {
 

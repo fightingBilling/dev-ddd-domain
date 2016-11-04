@@ -1,6 +1,6 @@
 package ch.sebooom.domain.stockexchange.matierespremieres.model;
 import ch.sebooom.domain.Entity;
-import ch.sebooom.domain.stockexchange.StockExchangeEntity;
+import ch.sebooom.domain.simulator.StockExchangeEntity;
 
 import com.google.common.base.MoreObjects;
 import static com.google.common.base.Preconditions.*;

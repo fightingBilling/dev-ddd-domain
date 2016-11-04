@@ -1,7 +1,8 @@
 package ch.sebooom.domain.stockexchange.matierespremieres.model;
 
 import ch.sebooom.domain.ValueObject;
-import ch.sebooom.domain.stockexchange.StockExchangeValue;
+import ch.sebooom.domain.simulator.StockExchangeValue;
+
 import com.google.common.base.MoreObjects;
 
 import java.math.BigDecimal;
