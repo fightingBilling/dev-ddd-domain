@@ -1,4 +1,4 @@
-package ch.sebooom.domain.stockexchange.matierespremieres;
+package ch.sebooom.domain.stockexchange.matierespremieres.model;
 
 public class MatierePremiereException extends RuntimeException {
 

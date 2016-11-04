@@ -1,7 +1,7 @@
-package ch.sebooom.domain.stockexchange.matierespremieres;
+package ch.sebooom.domain.stockexchange.matierespremieres.model;
 import ch.sebooom.domain.Entity;
 import ch.sebooom.domain.stockexchange.StockExchangeEntity;
-import ch.sebooom.domain.stockexchange.prix.Prix;
+
 import com.google.common.base.MoreObjects;
 import static com.google.common.base.Preconditions.*;
 

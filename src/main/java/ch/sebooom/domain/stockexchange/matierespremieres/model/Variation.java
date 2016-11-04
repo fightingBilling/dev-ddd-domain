@@ -1,4 +1,4 @@
-package ch.sebooom.domain.stockexchange.prix;
+package ch.sebooom.domain.stockexchange.matierespremieres.model;
 
 import ch.sebooom.domain.ValueObject;
 

@@ -1,6 +1,6 @@
 package ch.sebooom.domain.stockexchange;
 
-import ch.sebooom.domain.stockexchange.prix.Prix;
+import ch.sebooom.domain.stockexchange.matierespremieres.model.Prix;
 
 public abstract class StockExchangeEntity {
 
