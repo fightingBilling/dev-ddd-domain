@@ -27,9 +27,9 @@ public class Variation implements ValueObject<Variation> {
     @Override
     public String toString() {
         return "Variation{" +
-                "operation=" + operation +
-                ", taux=" + taux +
-                '}';
+                operation.signe +
+                " " + taux +
+                "%}";
     }
 
     private Variation(Operation operation, double taux){
